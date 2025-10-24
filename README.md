@@ -44,12 +44,12 @@ java codelab
 Ikuti petunjuk yang muncul di layar untuk memasukkan data.
 
 🧾 Contoh Output
-masukan nama anda : Salva
+masukan nama anda : Rifky
 masukan gender :(l/p) l
-masukan tahun lahir anda : 2003
+masukan tahun lahir anda : 2004
 DATA DIRI
-nama anda adalah : Salva
-umur   anda adalah : 22
+nama anda adalah : Rifky
+umur   anda adalah : 21
 gender anda adalah : laki laki
 
 🧩 Catatan
